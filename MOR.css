@@ -1,0 +1,85 @@
+
+.frame {
+  left:0;
+  bottom:15;
+    width: 1900px;
+    height: 1100px;
+    position: absolute;
+    /* The points are: centered top, left bottom, right bottom */
+    clip-path: polygon(0 0%, 0 55%, 35% 30%);
+
+}
+ #rightlogo {
+float: right;
+ margin: 0 0 0 15px;
+}
+
+.para {
+  float:right;
+  width: 40%;
+}
+
+#heading {
+  font-size: 30px;
+  font-family:"Arial";
+}
+
+#loginFont {
+  font-size: 20px;
+  font-family:"Arial";
+}
+div.b {
+  line-height: 0.2;
+}
+
+div.c {
+  line-height: 2.2;
+}
+
+hr {
+    width: 14%;
+    height: 4px;
+    margin-left: 0px;
+    margin-right: auto;
+    background-color: #00aaff;
+    border: 0 none;
+
+    }
+
+#formbox
+ {
+    height:25px;
+    width: 300px;
+    font-size:10pt;
+
+}
+
+  #container {
+                font-family: 'Arial', sans-serif;
+                font-size: 15px;
+            }
+
+button {
+  height:35px;
+  width: 300px;
+  font-size:10pt;
+  text-align: center;
+}
+
+#belowtext {
+  font-size: 11px;
+  text-align: right;
+  font-family:"Arial";
+}
+
+#linkbelow {
+  text-decoration: none;
+  color:  #00aaff;
+}
+
+.imagelink
+{
+  clear: both;
+  font-family:"Arial";
+  font-size: 22px;
+}
