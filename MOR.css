@@ -79,7 +79,7 @@ button {
   color:  #00aaff;
 }
 
-a:link {
+.linktype a:hover {
   color: black;
 }
 
