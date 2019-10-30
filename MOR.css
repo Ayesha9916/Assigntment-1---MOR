@@ -74,14 +74,15 @@ button {
   font-family:"Arial";
 }
 
+a:hover {
+  color: red;
+} 
+
 #linkbelow {
   text-decoration: none;
   color:  #00aaff;
 }
 
-a:hover {
-  color: red;
-}
 
 .imagelink
 {
