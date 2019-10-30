@@ -8,7 +8,6 @@ body {
     width: 1900px;
     height: 1100px;
     position: absolute;
-    /* The points are: centered top, left bottom, right bottom */
     clip-path: polygon(0 0%, 0 55%, 35% 30%);
 
 }
@@ -78,6 +77,10 @@ button {
 #linkbelow {
   text-decoration: none;
   color:  #00aaff;
+}
+
+a:link {
+  color: black;
 }
 
 .imagelink
